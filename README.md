@@ -1,5 +1,6 @@
-# This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework and don't mind using pre-1.0 software — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
+### This is a custom template for a Svelte app that uses TS instead of JS and has already the setup for the Material Ui, using [Sveltestrap](https://sveltestrap.js.org/?path=/story/components--get-started), Repo: [:octocat:](https://github.com/bestguy/sveltestrap)
 
+Please see the original template README.md file down below.
 ---
 
 # svelte app
